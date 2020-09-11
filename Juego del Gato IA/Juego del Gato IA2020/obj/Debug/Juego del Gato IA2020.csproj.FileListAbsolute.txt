@@ -1,0 +1,24 @@
+C:\Users\Usuario\source\repos\Juego del Gato IA\Juego del Gato IA2020\bin\Debug\Juego del Gato IA2020.exe.config
+C:\Users\Usuario\source\repos\Juego del Gato IA\Juego del Gato IA2020\bin\Debug\Juego del Gato IA2020.exe
+C:\Users\Usuario\source\repos\Juego del Gato IA\Juego del Gato IA2020\bin\Debug\Juego del Gato IA2020.pdb
+C:\Users\Usuario\source\repos\Juego del Gato IA\Juego del Gato IA2020\obj\Debug\Juego_del_Gato_IA2020.Form1.resources
+C:\Users\Usuario\source\repos\Juego del Gato IA\Juego del Gato IA2020\obj\Debug\Juego_del_Gato_IA2020.Form2.resources
+C:\Users\Usuario\source\repos\Juego del Gato IA\Juego del Gato IA2020\obj\Debug\Juego_del_Gato_IA2020.Form3.resources
+C:\Users\Usuario\source\repos\Juego del Gato IA\Juego del Gato IA2020\obj\Debug\Juego_del_Gato_IA2020.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Juego del Gato IA\Juego del Gato IA2020\obj\Debug\Juego del Gato IA2020.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Juego del Gato IA\Juego del Gato IA2020\obj\Debug\Juego del Gato IA2020.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Juego del Gato IA\Juego del Gato IA2020\obj\Debug\Juego del Gato IA2020.exe
+C:\Users\Usuario\source\repos\Juego del Gato IA\Juego del Gato IA2020\obj\Debug\Juego del Gato IA2020.pdb
+C:\Users\Usuario\source\repos\Juego del Gato IA\Juego del Gato IA2020\obj\Debug\Juego del Gato IA2020.csprojAssemblyReference.cache
+C:\Users\Hector\Downloads\Juego del Gato IA\Juego del Gato IA\Juego del Gato IA2020\bin\Debug\Juego del Gato IA2020.exe.config
+C:\Users\Hector\Downloads\Juego del Gato IA\Juego del Gato IA\Juego del Gato IA2020\bin\Debug\Juego del Gato IA2020.exe
+C:\Users\Hector\Downloads\Juego del Gato IA\Juego del Gato IA\Juego del Gato IA2020\bin\Debug\Juego del Gato IA2020.pdb
+C:\Users\Hector\Downloads\Juego del Gato IA\Juego del Gato IA\Juego del Gato IA2020\obj\Debug\Juego del Gato IA2020.csprojAssemblyReference.cache
+C:\Users\Hector\Downloads\Juego del Gato IA\Juego del Gato IA\Juego del Gato IA2020\obj\Debug\Juego_del_Gato_IA2020.Form1.resources
+C:\Users\Hector\Downloads\Juego del Gato IA\Juego del Gato IA\Juego del Gato IA2020\obj\Debug\Juego_del_Gato_IA2020.Form2.resources
+C:\Users\Hector\Downloads\Juego del Gato IA\Juego del Gato IA\Juego del Gato IA2020\obj\Debug\Juego_del_Gato_IA2020.Form3.resources
+C:\Users\Hector\Downloads\Juego del Gato IA\Juego del Gato IA\Juego del Gato IA2020\obj\Debug\Juego_del_Gato_IA2020.Properties.Resources.resources
+C:\Users\Hector\Downloads\Juego del Gato IA\Juego del Gato IA\Juego del Gato IA2020\obj\Debug\Juego del Gato IA2020.csproj.GenerateResource.cache
+C:\Users\Hector\Downloads\Juego del Gato IA\Juego del Gato IA\Juego del Gato IA2020\obj\Debug\Juego del Gato IA2020.csproj.CoreCompileInputs.cache
+C:\Users\Hector\Downloads\Juego del Gato IA\Juego del Gato IA\Juego del Gato IA2020\obj\Debug\Juego del Gato IA2020.exe
+C:\Users\Hector\Downloads\Juego del Gato IA\Juego del Gato IA\Juego del Gato IA2020\obj\Debug\Juego del Gato IA2020.pdb
